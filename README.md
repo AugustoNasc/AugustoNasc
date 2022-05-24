@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </h2> 
 
 ## 
-<h4 align="center"><samp> See my last project, a Sokoban game: </samp></h4>
+<h2 align="center"><samp> See my last project, a Sokoban game: </samp></h2>
 <p align="center">
     <img align="center" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
     
