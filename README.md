@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 
 <div>
-    <img align="left" alt="SokobanGhost" src="https://discord.com/channels/@me/944328182910312498/978764316704669766/Hnet.com-image.gif">
+    <img align="left" alt="SokobanGhost" src="https://hnet.com/video-to-gif/download/20220524-09-NxfJ6IOlKBhoEUEl-wjOuAu/Hnet-image.gif">
     
 </div>
   
