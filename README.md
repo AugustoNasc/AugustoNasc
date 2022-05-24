@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
-<br> I'm Augusto Nascimento, Student of Computer Engineering at CIn (UFPE/Brazil) :computer:<br>
+<h2 align="left">
+ <abc>
+    <br> I'm Augusto Nascimento, Student of Computer Engineering at CIn (UFPE/Brazil) :computer:<br>
     <img align="right" alt="PE" src="https://www.gifs-animados.net/bandeira/bandeira_pernambuco.gif">
     
   <br>
-  
+  </abc>
+</h2> 
+
 ## 
 <p align="center">
     <img align="center" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
