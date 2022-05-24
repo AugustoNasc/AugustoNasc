@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 
 
+<imag align="right" alt="SokobanGhost" src="https://discord.com/channels/@me/944328182910312498/978764316704669766">
 ![Snake Animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/8082840dd4c64b2b8df9e2dc23b1730bbf0c0e73/github-contribution-grid-snake.svg)
 
 ## 
