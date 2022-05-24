@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **AugustoNasc/AugustoNasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##
+<br> I'm Siv Augusto Nascimento, Student of Computer Engineering at CIn (UFPE/Brazil) :computer:<br>
+  <br>
 ## 
 <p align="center">
     <img align="center" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
