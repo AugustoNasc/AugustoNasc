@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 
 <div>
-    <img align="left" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
+    <img align="center" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
     
 </div>
   
