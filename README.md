@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 
-<div>
+<p align="center">
     <img align="center" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
     
-</div>
+</p>
   
 ##
   
