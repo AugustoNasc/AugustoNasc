@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
-<br> I'm Siv Augusto Nascimento, Student of Computer Engineering at CIn (UFPE/Brazil) :computer:<br>
+<br> I'm Augusto Nascimento, Student of Computer Engineering at CIn (UFPE/Brazil) :computer:<br>
+    <img align="right" alt="PE" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gifs-animados.net%2Fbandeiras.php&psig=AOvVaw3xEx4MydqdYbBPq-ix6kSO&ust=1653514684042000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDP_a2M-fcCFQAAAAAdAAAAABAD">
+    
   <br>
 ## 
 <p align="center">
