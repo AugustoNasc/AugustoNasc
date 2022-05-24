@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 
 <div>
-    <img align="right" alt="SokobanGhost" src="https://discord.com/channels/@me/944328182910312498/978764316704669766">
+    <img align="left" alt="SokobanGhost" src="https://discord.com/channels/@me/944328182910312498/978764316704669766">
 </div>
   
 ##
