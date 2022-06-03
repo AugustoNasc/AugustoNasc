@@ -20,10 +20,13 @@ Here are some ideas to get you started:
     <img align="right" alt="PE" src="https://www.gifs-animados.net/bandeira/bandeira_pernambuco.gif">
     
   <br>
+  
   </abc>
+ 
 </h2> 
 
 ## 
+
 <h2 align="center"><samp> See a litte bit of my last project, a Sokoban game: </samp></h2>
 <p align="center">
     <img align="center" alt="SokobanGhost" src="https://media.giphy.com/media/xcBg6iDmOYrtQrvgJM/giphy.gif">
