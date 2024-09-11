@@ -47,6 +47,16 @@ Here are some ideas to get you started:
   
 ##
 
+
+I also solve math questions using the manim library in python. For instance:
+
+
+https://github.com/user-attachments/assets/1981f0f8-2fda-43da-a486-a682117cbef2
+
+
+
+##
+
 <h4 align="left"><samp> The old snake Nokia game, just because it's fun  </samp></h4>
   
 ![Snake Animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/8082840dd4c64b2b8df9e2dc23b1730bbf0c0e73/github-contribution-grid-snake.svg)
