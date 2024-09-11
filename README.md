@@ -51,8 +51,7 @@ Here are some ideas to get you started:
 I also solve math questions using the manim library in python. For instance:
 
 
-https://github.com/user-attachments/assets/1981f0f8-2fda-43da-a486-a682117cbef2
-
+https://github.com/user-attachments/assets/49d70d77-cd0b-4565-ba88-de2e1d8b77d7
 
 
 ##
